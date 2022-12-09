@@ -1,0 +1,13 @@
+html{
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fbackground%2F&psig=AOvVaw3K04bj3eXg_41Hsq3fFEwT&ust=1670621055351000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIjI-8X66vsCFQAAAAAdAAAAABAG');
+    background-color: rgb(74, 74, 82);
+
+}
+#root{
+    size: 1500vh;
+    display: inline;
+}
+body{
+    background-image: url('/src/image/A1.jpg');
+    max-width: 100%;
+}
